@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892544939021",
+    "project_id": "dhiasehaim-55f42",
+    "storage_bucket": "dhiasehaim-55f42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892544939021:android:a78a6a8de998d9a3439144",
+        "android_client_info": {
+          "package_name": "com.example.FLUTTER_APPLICATION_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU7ajsqTe82-YvcnXZWHjF-V8lGo-MYII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
